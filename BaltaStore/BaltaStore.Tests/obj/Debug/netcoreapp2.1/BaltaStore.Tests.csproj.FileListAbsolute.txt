@@ -1,0 +1,16 @@
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.deps.json
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.runtimeconfig.json
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.runtimeconfig.dev.json
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.pdb
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.csproj.CoreCompileInputs.cache
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.AssemblyInfoInputs.cache
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.AssemblyInfo.cs
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.pdb
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Domain.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Domain.pdb
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.csprojResolveAssemblyReference.cache

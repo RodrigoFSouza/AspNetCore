@@ -1,0 +1,9 @@
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.deps.json
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.pdb
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csprojResolveAssemblyReference.cache

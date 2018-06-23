@@ -1,0 +1,9 @@
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.deps.json
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.pdb
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.csprojAssemblyReference.cache
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.csproj.CoreCompileInputs.cache
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.AssemblyInfoInputs.cache
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.AssemblyInfo.cs
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.dll
+E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.pdb

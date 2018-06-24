@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BaltaStore.Domain.LojaContexto.Entidades
+﻿namespace BaltaStore.Domain.LojaContexto.Entidades
 {
     public class Endereco
     {
@@ -26,5 +22,10 @@ namespace BaltaStore.Domain.LojaContexto.Entidades
         public string Pais { get; private set; }
         public string Complemento { get; private set; }
         public string Cep { get; private set; }
+
+        public override string ToString()
+        {
+            return $"{Rua},{Numero}  {Cidade}/{Estado}";
+        }
     }
 }

@@ -14,3 +14,19 @@ E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Domain.dll
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Domain.pdb
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.csprojResolveAssemblyReference.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.deps.json
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.runtimeconfig.json
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.runtimeconfig.dev.json
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Tests.pdb
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Domain.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.1\BaltaStore.Domain.pdb
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.csprojResolveAssemblyReference.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.csproj.CoreCompileInputs.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.AssemblyInfoInputs.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.AssemblyInfo.cs
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.1\BaltaStore.Tests.pdb

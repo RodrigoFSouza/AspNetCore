@@ -7,3 +7,12 @@ E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.deps.json
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\bin\Debug\netstandard2.0\BaltaStore.Infra.pdb
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csprojResolveAssemblyReference.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csproj.CoreCompileInputs.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfoInputs.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb

@@ -7,3 +7,12 @@ E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.AssemblyInfo.cs
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.dll
 E:\Projetos Dev\C#\DotNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.pdb
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.deps.json
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\bin\Debug\netstandard2.0\BaltaStore.Shared.pdb
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.csprojResolveAssemblyReference.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.csproj.CoreCompileInputs.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.AssemblyInfoInputs.cache
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.AssemblyInfo.cs
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.dll
+E:\dev\AspNetCore\BaltaStore\BaltaStore.Shared\obj\Debug\netstandard2.0\BaltaStore.Shared.pdb
